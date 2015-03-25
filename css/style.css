@@ -1,0 +1,164 @@
+body{
+	font-family: helvetica;
+	width: 440px;
+	background-color: #A2BAB9;
+}
+
+#piiches{
+	color: white;
+}
+
+.box{
+	background-color: white;
+}
+
+.profile-picture{
+	border-radius: 100% 100% 0% 100%;
+	float: left;
+}
+
+.name{
+	position: relative;
+	top: 10px;
+	left: 10px;
+
+}
+
+.blessing-platinum-at{
+	color: gray;
+}
+
+.hours-ago{
+	color: black;
+}
+
+.hours-ago-dim{
+	color: gray;
+	position: relative;
+	
+	left: 12%;
+}
+
+.status-update{
+	clear: both;
+	position: relative;
+	top: 10px;
+	width: 330px;
+	margin-right: auto;
+	margin-left: auto;
+
+
+}
+
+.status-count{
+	display: inline;
+	position: relative;
+	top: -10px;
+	font-size: 10px;
+
+}
+
+.status-highlight{
+	background-color: lightgray;
+	border-radius: 5px;
+	width: 350px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 10px;
+}
+
+.exclamation-mark{
+	position: relative;
+	border-radius: 100%;
+	display: inline-block;
+	float: right;
+	width: 20px;
+	height: 20px;
+	font-size: 15px;
+	text-align: center;
+	background-color: red;
+	color: white;
+}
+
+#follow-box{
+	width: 400px;
+	height: 30px;
+	background-color: gray;
+	border: 2px solid black;
+	border-radius: 5px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#follow-content{
+	display: block;
+	position: relative;
+	text-align: center;
+	
+}
+
+#button-color{
+	background-color: black;
+	border-radius: 5px;
+	color: white;
+	border: 2px solid white;
+}
+
+
+#to-comment{
+	color: white;
+}
+
+
+
+.hline { 
+	position: relative;
+	display: block;
+
+	margin-right: auto;
+	margin-left: auto;
+	width:80%; 
+	height:1px; 
+	background: black;
+}
+
+#lisa{
+	color: brown;
+}
+
+#comment-box{
+	box-shadow: 10px 10px 5px #888888;
+	border: 2px solid black;
+	margin-left: auto;
+	margin-right: auto;
+	width: 350px;
+	height: 200px;
+	font-size: 10px;
+	background-color: #D3F2F0;
+
+}
+
+.comment{
+	width: 300px;
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: justify;
+}
+
+#twos-box{
+	width: 440px;
+	height: 30px;
+	background-color: lightgray;
+	border: 2px solid none;
+	border-radius: 5px;
+}
+
+#twos{
+	position: relative;
+	left: 350px;
+	top: 8px;
+}
+#colored-twos{
+	color: blue;
+}
